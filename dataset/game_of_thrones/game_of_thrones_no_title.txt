@@ -527,7 +527,7 @@ Sansa Stark: Please father, please! Please don't!
 Arya Stark: You can't! I've got my lessons with Syrio! I'm finally getting good!
 Eddard Stark: This isn't a punishment. I want you back in Winterfell for your own safety.
 Arya Stark: Can't we take Syrio back with us.
-Narrator: Sansa Stark Who cares about your stupid dancing teacher? I can't go! I'm supposed to marry Prince Joffrey! I love him! And I'm meant to be his queen and have his babies!
+Sansa Stark: Who cares about your stupid dancing teacher? I can't go! I'm supposed to marry Prince Joffrey! I love him! And I'm meant to be his queen and have his babies!
 Arya Stark: [Disgusted] Seven hells!
 Eddard Stark: When you're old enough, I'll make you a match with someone who is worthy of you. Someone who is brave and gentle and strong.
 Sansa Stark: I don't want someone brave and gentle and strong. I want him. [Arya and Ned barely restrain a giggle at Sansa's distress.] He'll be the greatest king there ever was, a golden lion, and I'll give him sons with beautiful blond hair.
@@ -5286,26 +5286,26 @@ Stannis Baratheon: Very well, then. [turns to Davos] Take him prisoner. Davos wa
 Jon Snow: Your Grace? [Stannis turns back to him] If my father had seen the things that I've seen, he'd also tell you to burn the dead before nightfall- all of them.
 
 Dialog #279
-Narrator: [Jon visits Tormund in his confinement at Castle Black]
-Narrator: Tormund Giantsbaneː Your old blind man patched me up. Why?
-Narrator: Jon Snowː He's sworn to treat all wounded men, friend or foe.
-Narrator: Tormund Giantsbaneː You want me alive so you can torture me?
-Narrator: Jon Snowː No one's going to torture you.
-Narrator: Tormund Giantsbaneː How do we die? Hanging? Beheading? Drop us from the top of the Wall?
-Narrator: Jon Snowː I don't know what happens to the prisoners.
-Narrator: Tormund Giantsbaneː Who decides?
-Narrator: Jon Snowː I suppose Stannis does.
-Narrator: Tormund Giantsbaneː He your king now?
-Narrator: Jon Snowː I don't have a king.
-Narrator: Tormund Giantsbaneː You spent too much time among us, Jon Snow. You can never be a kneeler again.
-Narrator: Jon Snowː We're gonna burn the bodies of your dead. Do you want to say any words over them?
-Narrator: Tormund Giantsbaneː Words? What kind of words?
-Narrator: Jon Snowː Funeral words. I don't know how the free folk do it.
-Narrator: Tormund Giantsbaneː Do what?
-Narrator: Jon Snowː [pauses for a moment] Say farewell.
-Narrator: Tormund Giantsbaneː The dead can't hear us, boy. [Jon nods and makes his way to the door] Snow. [Jon turns back] Did you love her? She loved you.
-Narrator: Jon Snowː She told you?
-Narrator: Tormund Giantsbaneː No. All she ever talked about was killing you. That's how I know. [voice breaks slightly] She belongs in the North - the real North. You understand me?
+[Jon visits Tormund in his confinement at Castle Black]
+Tormund Giantsbane: Your old blind man patched me up. Why?
+Jon Snow: He's sworn to treat all wounded men, friend or foe.
+Tormund Giantsbane: You want me alive so you can torture me?
+Jon Snow: No one's going to torture you.
+Tormund Giantsbane: How do we die? Hanging? Beheading? Drop us from the top of the Wall?
+Jon Snow: I don't know what happens to the prisoners.
+Tormund Giantsbane: Who decides?
+Jon Snow: I suppose Stannis does.
+Tormund Giantsbane: He your king now?
+Jon Snow: I don't have a king.
+Tormund Giantsbane: You spent too much time among us, Jon Snow. You can never be a kneeler again.
+Jon Snow: We're gonna burn the bodies of your dead. Do you want to say any words over them?
+Tormund Giantsbane: Words? What kind of words?
+Jon Snow: Funeral words. I don't know how the free folk do it.
+Tormund Giantsbane: Do what?
+Jon Snow: [pauses for a moment] Say farewell.
+Tormund Giantsbane: The dead can't hear us, boy. [Jon nods and makes his way to the door] Snow. [Jon turns back] Did you love her? She loved you.
+Jon Snow: She told you?
+Tormund Giantsbane: No. All she ever talked about was killing you. That's how I know. [voice breaks slightly] She belongs in the North - the real North. You understand me?
 
 Dialog #280
 Pycelle: (examining the unconscious Gregor Clegane's severely infected injuries, after his duel with Oberyn Martell) I would suggest milk of the poppy to ease his pain, but the concensus-
@@ -5341,13 +5341,13 @@ Cersei Lannister: I don't care. I will stay in King's Landing where I belong, wi
 Tywin Lannister: When you were nine years old, I was called away to the Capitol; I decided to take your brother with me, and not you. You insisted that you would not be left at Casterly Rock under any circumstances, and if you recall-
 Cersei Lannister: I'm not interested in hearing another of your smug stories about the time you won. This isn't going to be one of those times. (gives him a frail smile)
 Tywin Lannister: (dryly) Do you think you'll be the first person dragged into a sept to be married against her will? (walks past her)
-Narrator: Cersei Lannisterː When you marched into the Throne Room to tell me we'd won the Battle of Blackwater- Do you remember?! (Tywin stops and turns, reluctantly) I was sitting on the Iron Throne with Tommen. I was about to give him essence of nightshade, that’s how far I was willing to go when I thought someone awful had come to take my son away. Someone awful is coming to take him away.
+Cersei Lannister: When you marched into the Throne Room to tell me we'd won the Battle of Blackwater- Do you remember?! (Tywin stops and turns, reluctantly) I was sitting on the Iron Throne with Tommen. I was about to give him essence of nightshade, that’s how far I was willing to go when I thought someone awful had come to take my son away. Someone awful is coming to take him away.
 Tywin Lannister: No-
 Cersei Lannister: Joffrey is dead, Myrcella has been sold like livestock, and now you want to ship me off to Highgarden and steal my boy, my last boy! Margarey will dig her claws in, you will dig your claws in, and you will fight over him like beasts until you rip him apart. I will burn our house to the ground before I let that happen!
 Tywin Lannister: (dryly) And how will you do that?
 Cersei Lannister:...I'll tell everyone the truth.
 Tywin Lannister: What truth would that be?
-Narrator: Cersei Lannisterː (stares at him in amazement, then slowly smiles) You don't know, do you? You never believed it. How is that possible? (Tywin looks at her, puzzled and impatient; she comes towards him) What am I saying? Of course it's possible. How can someone so consumed by the idea of his family have any conception what his actual family was doing? (pause) We were right there, in front of you, and you didn't see us. One look in the past twenty years- one real look, and you would have known.
+Cersei Lannister: (stares at him in amazement, then slowly smiles) You don't know, do you? You never believed it. How is that possible? (Tywin looks at her, puzzled and impatient; she comes towards him) What am I saying? Of course it's possible. How can someone so consumed by the idea of his family have any conception what his actual family was doing? (pause) We were right there, in front of you, and you didn't see us. One look in the past twenty years- one real look, and you would have known.
 Tywin Lannister: Known what?
 Cersei Lannister: (grins maliciously) Everything they say is true- about Jaime and me-
 Tywin Lannister: (shakes his head angrily) No, no, no, no...
@@ -5391,16 +5391,16 @@ Narrator: [Jaime shoves the Book aside and sets his sister on the table.]
 
 Dialog #283
 Narrator: [Bran, Hodor and Meera are led into the Heart Tree, escaping the dead, meeting what appears to be an old man]
-Narrator: Bran Starkː You're the three-eyed raven.
-Narrator: The Three-Eyed Ravenː I have been many things. Now, I am what you see.
-Narrator: Meera Reedː My brother...he led us to you, and now he --
-Narrator: The Three-Eyed Ravenː He knew what would happen. From the moment he left, he knew... and he went anyway.
-Narrator: Meera Reedː How do you know?
-Narrator: The Three-Eyed Ravenː I have been watching you. All of you. All of your lives. With a thousand eyes, and one. Now you come to me at last, Brandon Stark... though the hour is late.
-Narrator: Bran Starkː I didn't want anyone to die for me.
-Narrator: The Three-Eyed Ravenː He died so you could find what you have lost.
-Narrator: Bran Starkː You're going to help me walk again?
-Narrator: The Three-Eyed Ravenː You will never walk again. But you will fly.
+Bran Stark: You're the three-eyed raven.
+The Three-Eyed Raven: I have been many things. Now, I am what you see.
+Meera Reed: My brother...he led us to you, and now he --
+The Three-Eyed Raven: He knew what would happen. From the moment he left, he knew... and he went anyway.
+Meera Reed: How do you know?
+The Three-Eyed Raven: I have been watching you. All of you. All of your lives. With a thousand eyes, and one. Now you come to me at last, Brandon Stark... though the hour is late.
+Bran Stark: I didn't want anyone to die for me.
+The Three-Eyed Raven: He died so you could find what you have lost.
+Bran Stark: You're going to help me walk again?
+The Three-Eyed Raven: You will never walk again. But you will fly.
 
 Dialog #284
 Narrator: [Arya sees Brienne and Podrick approach]
@@ -5454,49 +5454,49 @@ Sandor: Aye. That's what I'm doing.
 
 Dialog #285
 Narrator: [Arya finds the mortally-wounded Hound at the bottom of a ravine, after being defeated by Brienne]
-Narrator: Sandor Cleganeː Are you still here? [coughs up blood] Big bitch saved you.
-Narrator: Arya Starkː I don't need saving.
-Narrator: Sandor Cleganeː [sardonically] No, not you. You're a real killer, with your water-dancing and your Needle.
-Narrator: Arya Starkː [flatly] You going to die?
-Narrator: Sandor Cleganeː Unless there's a maester hiding behind that rock... aye. I'm done. I'd skin you alive for wine. [Arya reaches for her waterskin] Fuck waterǃ [chuckles] Killed by a woman. I bet you like that. Go on. Go after her. She'll help you. [Arya shakes her head] Going it alone, you won't last a day out there.
-Narrator: Arya Starkː I'll last longer than you.
-Narrator: Sandor Cleganeː You remember where the heart is? [Arya nods] Fuck it... I'm ready. Go on, girl. Another name off your list. You kept promising me... [Arya just stares at him] I cut down your butcher's boy, the ginger. He was begging for mercy. "Please, ser, please don't kill meǃ Pleaseǃ Pleaseǃ" Bled all over my horse. Saddle stunk of butcher's boy for weeks. And your sister, your pretty sister. I should've taken her, that night the Blackwater burned. I should've fucked her bloody. At least I'd have one happy memoryǃ [Arya does not react, continues to stare] Do I have to beg you? Do it. [voice breaking] Do it. Do itǃ [Arya stands and approaches him, hand on her swordhilt...but instead she kneels and takes his gold pouch] Kill me. Kill meǃ KILL MEǃ KILL MEǃǃǃ
+Sandor Clegane: Are you still here? [coughs up blood] Big bitch saved you.
+Arya Stark: I don't need saving.
+Sandor Clegane: [sardonically] No, not you. You're a real killer, with your water-dancing and your Needle.
+Arya Stark: [flatly] You going to die?
+Sandor Clegane: Unless there's a maester hiding behind that rock... aye. I'm done. I'd skin you alive for wine. [Arya reaches for her waterskin] Fuck waterǃ [chuckles] Killed by a woman. I bet you like that. Go on. Go after her. She'll help you. [Arya shakes her head] Going it alone, you won't last a day out there.
+Arya Stark: I'll last longer than you.
+Sandor Clegane: You remember where the heart is? [Arya nods] Fuck it... I'm ready. Go on, girl. Another name off your list. You kept promising me... [Arya just stares at him] I cut down your butcher's boy, the ginger. He was begging for mercy. "Please, ser, please don't kill meǃ Pleaseǃ Pleaseǃ" Bled all over my horse. Saddle stunk of butcher's boy for weeks. And your sister, your pretty sister. I should've taken her, that night the Blackwater burned. I should've fucked her bloody. At least I'd have one happy memoryǃ [Arya does not react, continues to stare] Do I have to beg you? Do it. [voice breaking] Do it. Do itǃ [Arya stands and approaches him, hand on her swordhilt...but instead she kneels and takes his gold pouch] Kill me. Kill meǃ KILL MEǃ KILL MEǃǃǃ
 
 Dialog #286
 Narrator: [Hearing commotion outside his cell, Tyrion believes his executioners have come]
-Narrator: Tyrion Lannisterː Oh, get on with it, you son of a whore. [is surprised to see Jaime enter]
-Narrator: Jaime Lannisterː [amused] Is that any way to speak about our mother?
-Narrator: Tyrion Lannisterː What are you doing?
-Narrator: Jaime Lannisterː What do you think I'm doing? [leads Tyrion out of his cell] A galley's waiting in the bay bound for the Free Cities.
-Narrator: Tyrion Lannisterː Who's helping you?
-Narrator: Jaime Lannisterː Varys.
-Narrator: Tyrion Lannisterː [shocked] Varys?
-Narrator: Jaime Lannisterː You have more friends than you thought. [leads Tyrion to a stairwell] There's a locked door at the top of the stairs. Knock on it twice, then twice again. Varys will open.
-Narrator: Tyrion Lannisterː [quietly] I suppose this is good-bye, then. [Jaime kneels and embraces him, kissing his cheek]
-Narrator: Jaime Lannisterː Farewell, little brother. [he stands and turns to leave]
-Narrator: Tyrion Lannisterː Jaime. [Jaime turns back] Thank you for my life.
-Narrator: Jaime Lannisterː Quickly now. [leaves]
+Tyrion Lannister: Oh, get on with it, you son of a whore. [is surprised to see Jaime enter]
+Jaime Lannister: [amused] Is that any way to speak about our mother?
+Tyrion Lannister: What are you doing?
+Jaime Lannister: What do you think I'm doing? [leads Tyrion out of his cell] A galley's waiting in the bay bound for the Free Cities.
+Tyrion Lannister: Who's helping you?
+Jaime Lannister: Varys.
+Tyrion Lannister: [shocked] Varys?
+Jaime Lannister: You have more friends than you thought. [leads Tyrion to a stairwell] There's a locked door at the top of the stairs. Knock on it twice, then twice again. Varys will open.
+Tyrion Lannister: [quietly] I suppose this is good-bye, then. [Jaime kneels and embraces him, kissing his cheek]
+Jaime Lannister: Farewell, little brother. [he stands and turns to leave]
+Tyrion Lannister: Jaime. [Jaime turns back] Thank you for my life.
+Jaime Lannister: Quickly now. [leaves]
 
 Dialog #287
 Narrator: [Wielding Joffrey's crossbow, Tyrion confronts Tywin, disrobed in the privy in the Tower of the Hand]
-Narrator: Tywin Lannisterː [surprised] Tyrion. Put down the crossbow. [Tyrion stands firm] Who released you? Your brother, I expect. He always had a soft spot for you. Come, we'll go and talk in my chambers. [Tyrion holds up the crossbow as Tywin makes to stand] This is how you want to speak to me, hmm? Shaming your father has always given you pleasure.
-Narrator: Tyrion Lannisterː All my life you've wanted me dead.
-Narrator: Tywin Lannisterː [nodding] Yes. But you refused to die. I respect that. Even admire it. You fight for what's yours. I'd never let them execute you. Is that what you fear? I'd never let Ilyn Payne take your head. You're a Lannister. You're my son.
-Narrator: Tyrion Lannisterː [whispers] I loved her.
-Narrator: Tywin Lannisterː Who?
-Narrator: Tyrion Lannisterː Shae.
-Narrator: Tywin Lannisterː [disbelievingly] Oh, Tyrion. Put down that crossbow.
-Narrator: Tyrion Lannisterː I murdered her. With my own hands.
-Narrator: Tywin Lannisterː It doesn't matter.
-Narrator: Tyrion Lannisterː Doesn't matter?
-Narrator: Tywin Lannisterː She was a whore.
-Narrator: Tyrion Lannisterː [coldly] Say that word again...
-Narrator: Tywin Lannisterː And what? You'll kill your own father in the privy? No. You're my son. Now, enough of this nonsense.
-Narrator: Tyrion Lannisterː I am your son and you sentenced me to die. You knew I didn't poison Joffrey, but you sentenced me all the same. Why?
-Narrator: Tywin Lannisterː Enough. We'll go back to my chambers and speak with some dignity.
-Narrator: Tyrion Lannisterː I can't go back there. She's in there.
-Narrator: Tywin Lannisterː You're afraid of a dead whore? [Tyrion looses the crossbow bolt into Tywin's gut; Tywin grunts with pain as he is slammed back into the wall from the force; Tyrion calmly pulls the catch back] You shot me. [he groans in pain as he glares at Tyrion, who loads another bolt] You're no son of mine.
-Narrator: Tyrion Lannisterː I am your son. I have always been your son. [Tyrion fires another bolt into Tywin's chest, killing him]
+Tywin Lannister: [surprised] Tyrion. Put down the crossbow. [Tyrion stands firm] Who released you? Your brother, I expect. He always had a soft spot for you. Come, we'll go and talk in my chambers. [Tyrion holds up the crossbow as Tywin makes to stand] This is how you want to speak to me, hmm? Shaming your father has always given you pleasure.
+Tyrion Lannister: All my life you've wanted me dead.
+Tywin Lannister: [nodding] Yes. But you refused to die. I respect that. Even admire it. You fight for what's yours. I'd never let them execute you. Is that what you fear? I'd never let Ilyn Payne take your head. You're a Lannister. You're my son.
+Tyrion Lannister: [whispers] I loved her.
+Tywin Lannister: Who?
+Tyrion Lannister: Shae.
+Tywin Lannister: [disbelievingly] Oh, Tyrion. Put down that crossbow.
+Tyrion Lannister: I murdered her. With my own hands.
+Tywin Lannister: It doesn't matter.
+Tyrion Lannister: Doesn't matter?
+Tywin Lannister: She was a whore.
+Tyrion Lannister: [coldly] Say that word again...
+Tywin Lannister: And what? You'll kill your own father in the privy? No. You're my son. Now, enough of this nonsense.
+Tyrion Lannister: I am your son and you sentenced me to die. You knew I didn't poison Joffrey, but you sentenced me all the same. Why?
+Tywin Lannister: Enough. We'll go back to my chambers and speak with some dignity.
+Tyrion Lannister: I can't go back there. She's in there.
+Tywin Lannister: You're afraid of a dead whore? [Tyrion looses the crossbow bolt into Tywin's gut; Tywin grunts with pain as he is slammed back into the wall from the force; Tyrion calmly pulls the catch back] You shot me. [he groans in pain as he glares at Tyrion, who loads another bolt] You're no son of mine.
+Tyrion Lannister: I am your son. I have always been your son. [Tyrion fires another bolt into Tywin's chest, killing him]
 
 Dialog #288
 Narrator: [Arya approaches the crew of a ship]
@@ -7152,15 +7152,15 @@ Narrator: [Jon nods]
 
 Dialog #380
 Narrator: [Tyrion, Varys, Grey Worm, and Missandei all watch as a ship carrying slave masters from Yunkai, Astapor, and Volantis approaches.]
-Narrator: Grey Worm You invite the enemy into our city?
-Narrator: Tyrion I did. As a clever man once told me, we make peace with our enemies, not our friends.
-Narrator: Grey Worm I don't make peace with the Queen's enemies, I kill the Queen's enemies.
-Narrator: Tyrion Yes, that's the military approach. And how has that worked here in Meereen? I represent the diplomatic approach.
-Narrator: Missandei Our Queen tried to make peace with the Masters and they tried to murder her.
-Narrator: Tyrion We enter these negotiations with open eyes.Trust me, my own recent experience with slavery has taught me about the horrors of that institution.
-Narrator: Missandei How many days were you a slave?
-Narrator: Tyrion(Stammering) Long enough to know.
-Narrator: Missandei Not long enough to understand.
+Grey Worm: You invite the enemy into our city?
+Tyrion: I did. As a clever man once told me, we make peace with our enemies, not our friends.
+Grey Worm: I don't make peace with the Queen's enemies, I kill the Queen's enemies.
+Tyrion: Yes, that's the military approach. And how has that worked here in Meereen? I represent the diplomatic approach.
+Missandei: Our Queen tried to make peace with the Masters and they tried to murder her.
+Tyrion: We enter these negotiations with open eyes.Trust me, my own recent experience with slavery has taught me about the horrors of that institution.
+Missandei: How many days were you a slave?
+Tyrion: (Stammering) Long enough to know.
+Missandei: Not long enough to understand.
 
 Dialog #381
 Narrator: [The Khals of Khalar Vehven are discussing what to do with Daenerys.]
