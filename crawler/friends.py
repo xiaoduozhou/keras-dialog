@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 def crawl_dialogs(url):
     r = requests.get(url)
     soup = BeautifulSoup(r.content, 'lxml')
-    titles = soup.find_all('h3', 'section-heading')
+    titles = soup.find_all('h3', 'inbox')
     contents = soup.find_all('div', 'collapsible-block')
     all_titles = []
     all_dialogs = []
